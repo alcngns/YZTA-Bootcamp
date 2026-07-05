@@ -2,6 +2,7 @@
 
 **Takım 111** 
 
+# Ürün İle İlgili Bilgiler
 
 # NeuroMarket AI
 
