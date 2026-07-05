@@ -99,7 +99,7 @@ geliştirilmektedir. Hazır proje, satın alma veya dışarıdan destek kullanı
 ---
 
 ## Sprint Review & Retrospective Özeti
-Detaylar için:
+
 # Sprint 1 — Sprint Review
 
 **Tarih:** 5 Temmuz 2026
