@@ -106,8 +106,48 @@ geliştirilmektedir. Hazır proje, satın alma veya dışarıdan destek kullanı
 
 ## Sprint Review & Retrospective Özeti
 Detaylar için:
-- [Sprint 1 Review](sprint_review.md)
-- [Sprint 1 Retrospective](sprint_retrospective.md)
+# Sprint 1 — Sprint Review
+
+**Tarih:** 5 Temmuz 2026
+**Sprint Review Katılımcıları:** Behiye İlayda Selçuk (Product Owner), Alican Güneş (Scrum Master)
+
+## Alınan Kararlar
+- Email ile toplanacak veriler için ayrı bir veritabanı oluşturulmasının gerekli olduğu görülmüştür.
+  Ancak bu veritabanı, mevcut CSV yükleme (form) sayfasının çalışması için şart değildir.
+  Bu nedenle ilgili PBI (**Veritabanı Kurulumu — email verisi toplama**) bir sonraki sprint'e
+  aktarılmıştır.
+- Ortaya çıkan üründe (CSV yükleme + sentiment analizi ilk versiyonu) çalışma ve testler
+  sırasında herhangi bir problem gözlemlenmemiştir.
+- Ekstra olarak eklenmesi gereken özellikler belirlenmiştir (bkz. "Sprint 2'ye Aktarılanlar").
+
+## Sprint 1'de Tamamlanan
+- Proje iskeletinin kurulması
+- CSV yükleme & doğrulama mantığı
+- Sentiment analizi (ilk versiyon)
+- Kaynak yorum eşleştirme (US-07)
+
+## Sprint 2'ye Aktarılanlar
+- Veritabanı kurulumu (email üzerinden toplanan verilerin saklanması için)
+- Topic clustering'in geliştirilmesi/iyileştirilmesi
+- Review sürecinde belirlenen ek özellikler *(detaylandırılacak — Sprint 2 planlamasında backlog'a eklenecek)*
+
+
+# Sprint 1 — Sprint Retrospective
+
+**Tarih:** 5 Temmuz 2026
+**Katılımcılar:** Behiye İlayda Selçuk (Product Owner), Alican Güneş (Scrum Master)
+
+## Alınan Kararlar / Aksiyon Maddeleri
+- Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
+- Tahmin puanları (story point) gözden geçirilmeli; sprint planlama toplantılarında
+  developer'ların gerekli geri bildirimi verdiğinden emin olunmalıdır.
+- Unit test'ler için ayrılan efor/saat artırılmalıdır.
+
+## Sprint 2'ye Etkisi
+- Sprint 2 planlamasında görev dağılımı yeniden gözden geçirilecek.
+- Story point tahminleri, ekip geri bildirimiyle birlikte yeniden değerlendirilecek.
+- Backlog'a "Unit test yazımı" için ayrı task'ler eklenecek ve bu task'lere daha fazla
+  efor/saat ayrılacak.
 
 **Öne çıkan kararlar:**
 - Veritabanı PBI'ı Sprint 2'ye ertelendi (form/CSV akışı için şart değildi)
