@@ -1,6 +1,6 @@
 ## **Takım İsmi**
 
-**Takım 111"** 
+**Takım 111** 
 
 
 # NeuroMarket AI
