@@ -63,3 +63,15 @@ iyileştirme raporlarına dönüştürüyoruz."*
 ## Lisans / Kapsam
 Bu proje YZTA (Yapay Zeka ve Teknoloji Akademisi) Bootcamp 2026 kapsamında, ekip tarafından sıfırdan
 geliştirilmektedir. Hazır proje, satın alma veya dışarıdan destek kullanılmamaktadır.
+
+## Product Backlog 
+
+---
+
+# Sprint 1
+
+- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilmektedir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken toplam 300 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin 100 ile başlaması gerektiği kararlaştırıldı.
