@@ -75,3 +75,47 @@ geliştirilmektedir. Hazır proje, satın alma veya dışarıdan destek kullanı
 - **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken toplam 150 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin 50 ile başlaması gerektiği kararlaştırıldı.
 
 - **Daily Scrum**: Daily Scrum toplantılarının Google Meet üzerinden yapılması kararlaştırılmıştır. Toplantı ekran görüntülerimiz DailyScrum klasörü içindedir.
+
+- # Sprint 1 — Board
+
+## Rejected
+*(şu an yok)*
+
+## Backlog (Sprint 2'ye aktarılan)
+- [ ] **Veritabanı Kurulumu** — email ile toplanacak veriler için (Kod) — Sprint Review kararıyla ertelendi
+- [ ] Topic clustering geliştirme/iyileştirme (Kod)
+- [ ] Sprint Review'da belirlenen ek özellikler *(detaylandırılacak)*
+- [ ] Unit test yazımı — Retrospective kararıyla eklendi, önceliklendirilecek (Kod)
+
+## To-Do
+*(Sprint 1 kapandı, boş)*
+
+## In Progress
+*(Sprint 1 kapandı, boş)*
+
+## Done
+- [x] Proje iskeletinin kurulması (Kod) — Alican Güneş — 3 puan
+- [x] CSV yükleme & doğrulama mantığı (Kod) — Behiye İlayda Selçuk — 5 puan
+- [x] Sentiment modeli entegrasyonu — ilk versiyon (Kod) — Alican Güneş — 5 puan
+- [x] Kaynak yorum eşleştirme — US-07 (Kod) — Behiye İlayda Selçuk — 3 puan
+- [x] Repo + README + backlog dökümanları (Türü Olmayan Çalışma) — Behiye İlayda Selçuk — 2 puan
+
+**Puan: 18 / Toplam Puan: 50** 
+
+---
+
+## Sprint Review & Retrospective Özeti
+Detaylar için:
+- [Sprint 1 Review](sprint_review.md)
+- [Sprint 1 Retrospective](sprint_retrospective.md)
+
+**Öne çıkan kararlar:**
+- Veritabanı PBI'ı Sprint 2'ye ertelendi (form/CSV akışı için şart değildi)
+- Ürün test edildi, problem görülmedi
+- Görev dağılımı ve tahmin puanları gözden geçirilecek
+- Unit test efor/saati artırılacak
+
+---
+
+**Son güncelleme:** 5 Temmuz 2026
+**Güncelleyen:** Product Owner & Scrum Master
