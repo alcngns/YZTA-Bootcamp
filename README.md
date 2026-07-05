@@ -70,8 +70,6 @@ geliştirilmektedir. Hazır proje, satın alma veya dışarıdan destek kullanı
 
 # Sprint 1
 
-- **Sprint Notları**: User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilmektedir.
+- **Sprint içinde tamamlanması tahmin edilen puan**: 50 Puan
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
-
-- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken toplam 300 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin 100 ile başlaması gerektiği kararlaştırıldı.
+- **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken toplam 150 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin 50 ile başlaması gerektiği kararlaştırıldı.
