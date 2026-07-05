@@ -73,3 +73,5 @@ geliştirilmektedir. Hazır proje, satın alma veya dışarıdan destek kullanı
 - **Sprint içinde tamamlanması tahmin edilen puan**: 50 Puan
 
 - **Puan tamamlama mantığı**: Proje boyunca tamamlanması gereken toplam 150 puanlık backlog bulunmaktadır. 3 sprinte bölündüğünde ilk sprintin 50 ile başlaması gerektiği kararlaştırıldı.
+
+- **Daily Scrum**: Daily Scrum toplantılarının Google Meet üzerinden yapılması kararlaştırılmıştır. Toplantı ekran görüntülerimiz DailyScrum klasörü içindedir.
