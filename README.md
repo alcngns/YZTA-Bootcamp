@@ -135,5 +135,64 @@ geliştirilmektedir. Hazır proje, satın alma veya dışarıdan destek kullanı
 
 ---
 
-**Son güncelleme:** 5 Temmuz 2026
+# Sprint 2
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 60 Puan
+- **Puan tamamlama mantığı**: Sprint 1'de tamamlanan araştırma ve mimari çalışmaların üzerine, gerçek
+  ürün geliştirme işleri bu sprintte hayata geçirilmiştir. Sprint Review'da alınan "veri setleri
+  artırılmalı" ve "sistem mimarisi gözden geçirilmeli" kararları da bu sprint kapsamında ele alınmıştır.
+  
+
+## Sprint 2 — Board
+
+## Rejected
+*(şu an yok)*
+
+## To-Do
+*(Sprint 2 kapandı, boş)*
+
+## In Progress
+*(Sprint 2 kapandı, boş)*
+
+## Done
+- [x] CSV yükleme & doğrulama mantığının geliştirilmesi (US-01) — Behiye İlayda Selçuk — 10 puan
+- [x] Türkçe anahtar kelime tabanlı duygu analizi motoru (US-02) — Alican Güneş — 15 puan
+- [x] Cognitive friction kategorilendirmesi (US-03) — Alican Güneş — 15 puan
+- [x] Kritik alan önceliklendirme + kaynak yorum gösterimi (US-04) — Behiye İlayda Selçuk — 10 puan
+- [x] Streamlit dashboard arayüzü (US-05) — Behiye İlayda Selçuk & Alican Güneş — 10 puan
+
+**Puan: 60 / Toplam Puan: 150**
+
+---
+
+## Sprint 2 — Sprint Review
+
+**Tarih:** 5 Temmuz - 19 Temmuz
+**Sprint Review Katılımcıları:** Behiye İlayda Selçuk (Product Owner), Alican Güneş (Scrum Master)
+
+### Alınan Kararlar
+- Duygu analizi için Türkçe destekli bir kural motoru geliştirilmiştir (İngilizce odaklı
+  kütüphanelerin Türkçe metinlerde yetersiz kaldığı görülmüştür).
+- Veri seti sayısı Sprint 1'deki review kararına uygun şekilde artırılmıştır.
+- Sistem mimarisi gözden geçirilerek dashboard katmanı netleştirilmiştir.
+- Ekstra özellik olarak "cognitive friction" kategorilendirmesi MVP'ye dahil edilmiştir.
+
+### Sprint 2'de Tamamlanan
+- Çalışan bir MVP (CSV yükleme + duygu analizi + kategori + dashboard)
+- Sprint 1'den kalan veri seti ve mimari eksiklerinin giderilmesi
+
+## Sprint 2 — Sprint Retrospective
+
+**Tarih:** * 19 Temmuz 2026
+**Katılımcılar:** Behiye İlayda Selçuk (Product Owner), Alican Güneş (Scrum Master)
+
+### Alınan Kararlar / Aksiyon Maddeleri
+- Unit test yazımı bu sprintte planlanmış ancak önceliklendirme nedeniyle Sprint 3'e taşınmıştır.
+- Veritabanı kurulumu (email verisi için), LLM destekli özet ve deployment Sprint 3'e aktarılmıştır.
+- Görev dağılımı bu sprintte dengeli şekilde uygulanmıştır; bu yaklaşım korunacaktır.
+
+---
+
+**Son güncelleme:** 19 Temmuz 2026
 **Güncelleyen:** Product Owner & Scrum Master
+
