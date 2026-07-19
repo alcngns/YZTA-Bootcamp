@@ -183,7 +183,7 @@ geliştirilmektedir. Hazır proje, satın alma veya dışarıdan destek kullanı
 
 ## Sprint 2 — Sprint Retrospective
 
-**Tarih:** * 19 Temmuz 2026
+**Tarih:** 19 Temmuz 2026
 **Katılımcılar:** Behiye İlayda Selçuk (Product Owner), Alican Güneş (Scrum Master)
 
 ### Alınan Kararlar / Aksiyon Maddeleri
