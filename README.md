@@ -262,7 +262,7 @@ advisory katman** (Insight Agent) birlikte çalışır.
 
 ## Sprint 3 — Sprint Retrospective
 
-**Tarih:** *(teslim tarihini yazın)*
+**Tarih:** *(01.08.2026)*
 **Katılımcılar:** Behiye İlayda Selçuk (Product Owner), Alican Güneş (Scrum Master)
 
 ### Alınan Kararlar / Aksiyon Maddeleri
