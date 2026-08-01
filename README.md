@@ -236,7 +236,7 @@ app.py (Streamlit)
    ├── Perception: eğitilmiş model → duygu tahmini + güven skoru
    ├── Yapısal katman: TF-IDF + KMeans → otomatik konu kümeleri
    ├── Kural motoru: cognitive friction kategorileri
-   └── Insight Agent: Claude API (varsa) → yönetici özeti, yoksa şablon özet
+   └── Insight Agent: Gemini API (varsa) → yönetici özeti, yoksa şablon özet
 ```
 
 Bu mimari, projenin başındaki "sadece klasik ML modeli kullanmak yetersiz kalır" öngörüsüne
