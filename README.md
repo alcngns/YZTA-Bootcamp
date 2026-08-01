@@ -274,9 +274,6 @@ advisory katman** (Insight Agent) birlikte çalışır.
 
 ---
 
-**Son güncelleme:** *(push ettiğiniz gün buraya tarih ekleyin)*
-**Güncelleyen:** Product Owner & Scrum Master
-
 
 **Son güncelleme:** 01.08.2026
 **Güncelleyen:** Product Owner & Scrum Master
