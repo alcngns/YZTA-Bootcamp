@@ -219,7 +219,7 @@ geliştirilmektedir. Hazır proje, satın alma veya dışarıdan destek kullanı
 - [x] `scripts/train_model.py` — TF-IDF + Logistic Regression eğitim scripti (%92 doğruluk, %92 F1)
 - [x] `models/sentiment_pipeline.joblib` — eğitilmiş model artifact'i
 - [x] `app.py` — gerçek model + TF-IDF/KMeans konu kümeleme + Insight Agent entegrasyonu
-- [x] `insight_agent.py` — LLM destekli özet modülü (Claude API, fallback'li)
+- [x] `insight_agent.py` — LLM destekli özet modülü (Gemini API, fallback'li)
 
 ## Ürün Mimarisi (Final)
 ```
