@@ -253,7 +253,7 @@ advisory katman** (Insight Agent) birlikte çalışır.
   değiştirilmiştir (%92 doğruluk).
 - Topic clustering, anahtar kelime kategorilerinin yanına unsupervised bir ML yöntemiyle
   (TF-IDF + KMeans) eklenmiştir.
-- Yönetici özeti için LLM entegrasyonu (Claude API) eklenmiş, API erişimi olmayan
+- Yönetici özeti için LLM entegrasyonu (Gemini API) eklenmiş, API erişimi olmayan
   demo ortamları için şablon tabanlı bir yedek mekanizma korunmuştur.
 
 ### Sprint 3'te Tamamlanan
