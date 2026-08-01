@@ -206,7 +206,7 @@ geliştirilmektedir. Hazır proje, satın alma veya dışarıdan destek kullanı
 | Gerçek Türkçe veri seti entegrasyonu | 10 | 2000 gerçek e-ticaret yorumu (hepsiburada, n11, trendyol) — bkz. `data/DATASET_KAYNAK.md` |
 | Duygu analizi modelinin eğitilmesi | 15 | TF-IDF + Logistic Regression, **%92 test doğruluğu** (`scripts/train_model.py`) |
 | Konu kümeleme (topic clustering) | 5 | TF-IDF + KMeans ile unsupervised kümeleme, otomatik küme adlandırma |
-| Insight Agent (LLM destekli özet) | 5 | Claude API ile gerçek LLM özeti, API key yoksa şablon fallback |
+| Insight Agent (LLM destekli özet) | 5 | Gemini API ile gerçek LLM özeti, API key yoksa şablon fallback |
 | Unit test yazımı | 5 | *(bkz. aşağıdaki not)* |
 
 **Puan: 40 / Toplam Puan: 150** ✅ (150/150 tamamlandı)
